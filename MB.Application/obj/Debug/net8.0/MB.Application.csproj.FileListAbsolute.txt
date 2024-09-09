@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\bin\Debug\net8.0\MB.Application.deps.json
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\bin\Debug\net8.0\MB.Application.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\bin\Debug\net8.0\MB.Application.pdb
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\bin\Debug\net8.0\MB.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\bin\Debug\net8.0\MB.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\bin\Debug\net8.0\MB.Application.Contracts.pdb
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\bin\Debug\net8.0\MB.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\MB.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\MB.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\MB.Application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\MB.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\MB.Appli.569D401C.Up2Date
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\MB.Application.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\refint\MB.Application.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\MB.Application.pdb
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application\obj\Debug\net8.0\ref\MB.Application.dll

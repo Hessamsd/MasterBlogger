@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.deps.json
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\refint\MB.Domain.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.pdb
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\ref\MB.Domain.dll
