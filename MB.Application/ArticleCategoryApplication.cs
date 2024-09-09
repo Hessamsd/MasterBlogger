@@ -31,7 +31,7 @@ namespace MB.Application
                     Id = articleCategory.Id,
                     Title = articleCategory.Title,
                     IsDeleted = articleCategory.IsDeleted,
-                    CretionDate = articleCategory.CreationDate.ToString(CultureInfo.InvariantCulture)
+                    CreationDate = articleCategory.CreationDate.ToString(CultureInfo.InvariantCulture)
 
                 });
             }

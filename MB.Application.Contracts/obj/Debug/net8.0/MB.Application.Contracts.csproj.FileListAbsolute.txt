@@ -9,8 +9,4 @@ C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts\obj\Debug\net8.0\refint\MB.Application.Contracts.dll
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.pdb
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts\obj\Debug\net8.0\ref\MB.Application.Contracts.dll
-C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts\bin\Debug\net8.0\MB.Domain.dll
-C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts\bin\Debug\net8.0\MB.Domain.pdb
-C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.csproj.AssemblyReference.cache
-C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Appli.6105409A.Up2Date
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Application.Contracts\obj\Debug\net8.0\MB.Application.Contracts.sourcelink.json

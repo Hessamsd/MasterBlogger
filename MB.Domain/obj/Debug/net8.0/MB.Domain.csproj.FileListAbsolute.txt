@@ -10,3 +10,7 @@ C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.pdb
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\ref\MB.Domain.dll
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.sourcelink.json
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Contracts.pdb
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.Up2Date

@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace MB.Domain.ArticleCategoryAgg
+﻿namespace MB.Domain.ArticleCategoryAgg
 {
     public interface IArticleCategoryRepository
     {
@@ -8,7 +6,6 @@ namespace MB.Domain.ArticleCategoryAgg
         void Create(ArticleCategory entity);
         ArticleCategory Get(int id);
         void Save();
-
         bool Exists(string title);
     }
 }

@@ -16,3 +16,5 @@ C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.EFCore
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.EFCore\obj\Debug\net8.0\MB.Infrastructure.EFCore.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.EFCore\obj\Debug\net8.0\ref\MB.Infrastructure.EFCore.dll
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.EFCore\obj\Debug\net8.0\MB.Infrastructure.EFCore.sourcelink.json
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.EFCore\bin\Debug\net8.0\MB.Application.Contracts.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.EFCore\bin\Debug\net8.0\MB.Application.Contracts.pdb
