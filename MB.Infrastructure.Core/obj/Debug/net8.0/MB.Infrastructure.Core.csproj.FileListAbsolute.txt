@@ -19,3 +19,4 @@ C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\o
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\refint\MB.Infrastructure.Core.dll
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\MB.Infrastructure.Core.pdb
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\ref\MB.Infrastructure.Core.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\MB.Infrastructure.Core.sourcelink.json

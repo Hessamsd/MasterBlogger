@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.efcore\\masterbloggercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\masterbloggercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.efcore\\mapping\\articlecategorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\mapping\\articlecategorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.efcore\\mapping\\articlemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\mapping\\articlemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.efcore\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\articlecategoryagg\\services\\articlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articlecategoryagg\\services\\articlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\articlecategoryagg\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articlecategoryagg\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\articlecategoryagg\\services\\iarticlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articlecategoryagg\\services\\iarticlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.efcore\\repositories\\articlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\repositories\\articlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleAgg\\Article.cs",
+              "RelativeDocumentMoniker": "MB.Domain\\ArticleAgg\\Article.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleAgg\\Article.cs",
+              "RelativeToolTip": "MB.Domain\\ArticleAgg\\Article.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:21:00.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterBloggerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\MasterBloggerContext.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\MasterBloggerContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\MasterBloggerContext.cs",
+              "RelativeToolTip": "MB.Infrastructure.EFCore\\MasterBloggerContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:29:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleCategoryMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Mapping\\ArticleCategoryMapping.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Mapping\\ArticleCategoryMapping.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Mapping\\ArticleCategoryMapping.cs",
+              "RelativeToolTip": "MB.Infrastructure.EFCore\\Mapping\\ArticleCategoryMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:27:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "RelativeDocumentMoniker": "MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "RelativeToolTip": "MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:26:27.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Mapping\\ArticleMapping.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Mapping\\ArticleMapping.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Mapping\\ArticleMapping.cs",
+              "RelativeToolTip": "MB.Infrastructure.EFCore\\Mapping\\ArticleMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:20:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:18:11.968Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -43,84 +122,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArticleCategoryValidatorService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAswBQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T07:15:25.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IArticleCategoryValidatorService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\Services\\IArticleCategoryValidatorService.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleCategoryAgg\\Services\\IArticleCategoryValidatorService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\Services\\IArticleCategoryValidatorService.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleCategoryAgg\\Services\\IArticleCategoryValidatorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T07:13:43.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ArticleCategoryApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleCategoryApplication.cs",
-              "RelativeDocumentMoniker": "MB.Application\\ArticleCategoryApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleCategoryApplication.cs",
-              "RelativeToolTip": "MB.Application\\ArticleCategoryApplication.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC0AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T06:09:47.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArticleCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Repositories\\ArticleCategoryRepository.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repositories\\ArticleCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Repositories\\ArticleCategoryRepository.cs",
-              "RelativeToolTip": "MB.Infrastructure.EFCore\\Repositories\\ArticleCategoryRepository.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwA4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T06:00:06.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IArticleCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T05:58:56.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArticleCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T05:53:58.386Z",
-              "EditorCaption": ""
             }
           ]
         }
