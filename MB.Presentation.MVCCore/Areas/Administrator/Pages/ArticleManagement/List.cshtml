@@ -42,7 +42,7 @@
                         </td>
                         <td>@article.CreationDate</td>
                         <td>
-                            <a class="btn btn-warning float-left mr-3" asp-page="./Edite" asp-route-id="@article.Id">Edit</a>
+                            <a class="btn btn-warning float-left mr-3" asp-page="./Edit" asp-route-id="@article.Id">Edit</a>
                             @if (article.IsDeleted)
                             {
                                 <form method="post" asp-page-handler="Activate" class="float-left">

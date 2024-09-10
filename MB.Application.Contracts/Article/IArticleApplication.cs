@@ -5,5 +5,10 @@
         List<ArticleViewModel> GetList();
 
         void Create(CreateArticle command);
+
+        void Edit(EditeArticle command);
+
+        EditeArticle Get(int id);
+       
     }
 }
