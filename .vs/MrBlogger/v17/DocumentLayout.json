@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{310FDB56-EA41-44CB-A612-FFBCBB18B661}|MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.core\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{310FDB56-EA41-44CB-A612-FFBCBB18B661}|MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj|solutionrelative:mb.infrastructure.core\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98F3E58A-0826-4DF3-9B7B-C5BC0E4CFD1C}|MB.Application.Contracts\\MB.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.application.contracts\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F3E58A-0826-4DF3-9B7B-C5BC0E4CFD1C}|MB.Application.Contracts\\MB.Application.Contracts.csproj|solutionrelative:mb.application.contracts\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.efcore\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,80 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleAgg\\Article.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleAgg\\Article.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleAgg\\Article.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleAgg\\Article.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:50:35.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BootStrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.Core\\BootStrapper.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.Core\\BootStrapper.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.Core\\BootStrapper.cs",
-              "RelativeToolTip": "MB.Infrastructure.Core\\BootStrapper.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:31:33.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "List.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:20:09.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T18:19:36.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
-              "RelativeToolTip": "MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:15:55.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ArticleApplication.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleApplication.cs",
               "RelativeDocumentMoniker": "MB.Application\\ArticleApplication.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleApplication.cs",
               "RelativeToolTip": "MB.Application\\ArticleApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:14:41.281Z",
+              "WhenOpened": "2024-09-10T12:36:17.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateArticle.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application.Contracts\\Article\\CreateArticle.cs",
+              "RelativeDocumentMoniker": "MB.Application.Contracts\\Article\\CreateArticle.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application.Contracts\\Article\\CreateArticle.cs",
+              "RelativeToolTip": "MB.Application.Contracts\\Article\\CreateArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:24:48.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:51:09.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:49:45.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:49:38.71Z",
               "EditorCaption": ""
             }
           ]
