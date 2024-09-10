@@ -9,6 +9,9 @@
         void Edit(EditeArticle command);
 
         EditeArticle Get(int id);
+
+        void Remove(int id);
+        void Activate(int id);
        
     }
 }

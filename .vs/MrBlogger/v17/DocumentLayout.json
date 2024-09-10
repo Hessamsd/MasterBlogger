@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\articleagg\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articleagg\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,58 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleAgg\\IArticleRepository.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleAgg\\IArticleRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleAgg\\IArticleRepository.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleAgg\\IArticleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T17:32:38.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArticleApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleApplication.cs",
-              "RelativeDocumentMoniker": "MB.Application\\ArticleApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleApplication.cs",
-              "RelativeToolTip": "MB.Application\\ArticleApplication.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T17:25:14.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T13:42:38.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml.cs",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA3wCcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T16:39:36.028Z",
-              "EditorCaption": ""
             }
           ]
         }
