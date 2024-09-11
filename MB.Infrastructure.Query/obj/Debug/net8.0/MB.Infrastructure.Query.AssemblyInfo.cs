@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MB.Infrastructure.Query")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5917dad19fb66590e6bfaada704db5b4f7e424d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a923decb1a05fb2c30cf73cb7af51315de0f75ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("MB.Infrastructure.Query")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MB.Infrastructure.Query")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
