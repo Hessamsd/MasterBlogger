@@ -1,4 +1,5 @@
 ﻿using MB.Domain.Comment;
+using MB.Domain.Comment.Agg;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +18,10 @@ namespace MB.Infrastructure.EFCore.Repositories
                         
         }
 
-       
+        public void CreatAndSave(Commentt entity)
+        {
+            _Context.Comments.Add(entity);
+            _Context.SaveChanges();
+        }
     }
 }

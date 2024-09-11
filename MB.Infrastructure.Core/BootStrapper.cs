@@ -10,6 +10,8 @@ using MB.Application.Contracts.Article;
 using MB.Domain.ArticleAgg;
 using MB.Domain.ArticleAgg.Services;
 using MB.Infrastructure.Query;
+using MB.Application.Contracts.Comment;
+using MB.Domain.Comment;
 
 namespace MB.Infrastructure.Core
 {
@@ -28,6 +30,9 @@ namespace MB.Infrastructure.Core
             services.AddTransient<IArticleRepository, ArticleRepository>();
             services.AddTransient<IArticleValidatorService,ArticleValidatorService>();
             services.AddTransient<IArticleQuery, ArticleQuery>();
+            services.AddTransient<ICommentApplication, CommentApplication>();
+            services.AddTransient<ICommentRepository, CommentRepository>();
+
 
 
 
