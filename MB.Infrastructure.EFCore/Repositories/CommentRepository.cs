@@ -1,27 +1,41 @@
-﻿using MB.Domain.Comment;
+﻿using MB.Application.Contracts.Comment;
+using MB.Domain.Comment;
 using MB.Domain.Comment.Agg;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using System.Globalization;
 
 namespace MB.Infrastructure.EFCore.Repositories
 {
     public class CommentRepository : ICommentRepository
     {
-       private readonly MasterBloggerContext _Context;
+        private readonly MasterBloggerContext _Context;
 
         public CommentRepository(MasterBloggerContext masterBloggerContext)
         {
             _Context = masterBloggerContext;
-                        
+
         }
 
         public void CreatAndSave(Commentt entity)
         {
             _Context.Comments.Add(entity);
             _Context.SaveChanges();
+        }
+
+
+        public List<CommentViewModel> GetList()
+        {
+            return _Context.Comments.Include(x => x.Article).Select(x => new CommentViewModel
+            {
+                Id = x.Id,
+                Name = x.Name,
+                Email = x.Email,
+                Message = x.Message,
+                Status = x.Status,
+                CreationDate = x.CreationDate.ToString(CultureInfo.InvariantCulture),
+                Article = x.Article.Title,
+
+            }).ToList();
         }
     }
 }

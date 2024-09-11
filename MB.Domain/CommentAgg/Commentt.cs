@@ -1,4 +1,5 @@
 ﻿using MB.Domain.ArticleAgg;
+using MB.Domain.Comment.agg;
 
 namespace MB.Domain.Comment.Agg
 {

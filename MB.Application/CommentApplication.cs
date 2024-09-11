@@ -19,5 +19,11 @@ namespace MB.Application
                 command.Email, command.Message, command.ArticleId);
             _commentRepository.CreatAndSave(comment);
         }
+               
+
+        public List<CommentViewModel> GetList()
+        {
+            return _commentRepository.GetList();
+        }
     }
 }
