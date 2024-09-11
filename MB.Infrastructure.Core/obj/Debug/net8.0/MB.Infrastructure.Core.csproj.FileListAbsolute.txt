@@ -20,3 +20,5 @@ C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\o
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\MB.Infrastructure.Core.pdb
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\ref\MB.Infrastructure.Core.dll
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\obj\Debug\net8.0\MB.Infrastructure.Core.sourcelink.json
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\bin\Debug\net8.0\MB.Infrastructure.Query.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Infrastructure.Core\bin\Debug\net8.0\MB.Infrastructure.Query.pdb

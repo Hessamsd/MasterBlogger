@@ -77,3 +77,5 @@ C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Presentation.MVCCore\
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Presentation.MVCCore\bin\Debug\net8.0\MB.Infrastructure.Core.dll
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Presentation.MVCCore\bin\Debug\net8.0\MB.Infrastructure.Core.pdb
 C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Presentation.MVCCore\obj\Debug\net8.0\MB.Presentation.MVCCore.sourcelink.json
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Presentation.MVCCore\bin\Debug\net8.0\MB.Infrastructure.Query.dll
+C:\Users\Administrator\Desktop\Atriya Project\MrBlogger\MB.Presentation.MVCCore\bin\Debug\net8.0\MB.Infrastructure.Query.pdb

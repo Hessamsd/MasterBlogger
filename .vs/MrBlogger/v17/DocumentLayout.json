@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{310FDB56-EA41-44CB-A612-FFBCBB18B661}|MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.core\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{310FDB56-EA41-44CB-A612-FFBCBB18B661}|MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj|solutionrelative:mb.infrastructure.core\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,34 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BootStrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.Core\\BootStrapper.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.Core\\BootStrapper.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.Core\\BootStrapper.cs",
-              "RelativeToolTip": "MB.Infrastructure.Core\\BootStrapper.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:32:44.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleAgg\\Article.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleAgg\\Article.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\ArticleAgg\\Article.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleAgg\\Article.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwCcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:14:38.015Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
