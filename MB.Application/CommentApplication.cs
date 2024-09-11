@@ -19,7 +19,20 @@ namespace MB.Application
                 command.Email, command.Message, command.ArticleId);
             _commentRepository.CreatAndSave(comment);
         }
-               
+
+        public void Canseled(int id)
+        {
+            var comment = _commentRepository.GetBy(id);
+            comment.Canceled();
+            _commentRepository.Save();
+        }
+
+        public void Confirm(int id)
+        {
+            var comment = _commentRepository.GetBy(id);
+            comment.Confirm();
+            _commentRepository.Save();
+        }
 
         public List<CommentViewModel> GetList()
         {
