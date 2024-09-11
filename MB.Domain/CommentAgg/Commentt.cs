@@ -1,13 +1,8 @@
 ﻿using MB.Domain.ArticleAgg;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MB.Domain.Comment
+namespace MB.Domain.Comment.Agg
 {
-    public  class Comment
+    public  class Commentt
     {
 
         public int Id { get; private set; }
@@ -22,12 +17,12 @@ namespace MB.Domain.Comment
         public Article Article { get; private set; }
 
 
-        protected Comment()
+        protected Commentt()
         {
             
         }
 
-        public Comment(string name, string email, string message, int articleId)
+        public Commentt(string name, string email, string message, int articleId)
         {
             Name = name;
             Email = email;

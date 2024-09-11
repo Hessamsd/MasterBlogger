@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.application\\commentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\commentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\comment\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\comment\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.domain\\comment\\statuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437659F5-6A37-402E-AC70-AE762475385C}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\comment\\statuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F3E58A-0826-4DF3-9B7B-C5BC0E4CFD1C}|MB.Application.Contracts\\MB.Application.Contracts.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.application.contracts\\comment\\icommentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F3E58A-0826-4DF3-9B7B-C5BC0E4CFD1C}|MB.Application.Contracts\\MB.Application.Contracts.csproj|solutionrelative:mb.application.contracts\\comment\\icommentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,58 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CommentApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\CommentApplication.cs",
-              "RelativeDocumentMoniker": "MB.Application\\CommentApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\CommentApplication.cs",
-              "RelativeToolTip": "MB.Application\\CommentApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T09:26:57.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICommentApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application.Contracts\\Comment\\ICommentApplication.cs",
-              "RelativeDocumentMoniker": "MB.Application.Contracts\\Comment\\ICommentApplication.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application.Contracts\\Comment\\ICommentApplication.cs",
-              "RelativeToolTip": "MB.Application.Contracts\\Comment\\ICommentApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T09:26:24.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Statuses.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\Comment\\Statuses.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\Comment\\Statuses.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\Comment\\Statuses.cs",
-              "RelativeToolTip": "MB.Domain\\Comment\\Statuses.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T09:23:03.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\Comment\\Comment.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\Comment\\Comment.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Domain\\Comment\\Comment.cs",
-              "RelativeToolTip": "MB.Domain\\Comment\\Comment.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAWwBsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T09:17:35.841Z",
-              "EditorCaption": ""
             }
           ]
         }
