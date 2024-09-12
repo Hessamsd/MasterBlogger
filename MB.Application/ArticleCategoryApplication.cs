@@ -9,7 +9,7 @@ namespace MB.Application
     {
 
         private readonly IArticleCategoryRepository _articleCategoryRepository;
-       private readonly IArticleCategoryValidatorService _articleCategoryValidatorService;
+        private readonly IArticleCategoryValidatorService _articleCategoryValidatorService;
         public ArticleCategoryApplication(IArticleCategoryRepository articleCategoryRepository, IArticleCategoryValidatorService articleCategoryValidatorService)
         {
             _articleCategoryRepository = articleCategoryRepository;
@@ -21,25 +21,32 @@ namespace MB.Application
         public List<ArticleCategoryViewModel> List()
         {
             var articleCategories = _articleCategoryRepository.GetAll();
-            var result = new List<ArticleCategoryViewModel>();
-
-            foreach (var articleCategory in articleCategories)
+            return articleCategories.Select(articleCategory => new ArticleCategoryViewModel
             {
-                result.Add(new ArticleCategoryViewModel
-                {
+                Id = articleCategory.Id,
+                Title = articleCategory.Title,
+                IsDeleted = articleCategory.IsDeleted,
+                CreationDate = articleCategory.CreationDate.ToString(CultureInfo.InvariantCulture)
+            }).OrderDescending().ToList();
 
-                    Id = articleCategory.Id,
-                    Title = articleCategory.Title,
-                    IsDeleted = articleCategory.IsDeleted,
-                    CreationDate = articleCategory.CreationDate.ToString(CultureInfo.InvariantCulture)
-
-                });
-            }
-            return result;
+            //var result = new List<ArticleCategoryViewModel>();
+            //foreach (var articleCategory in articleCategories)
+            //{
+            //    result.Add(new ArticleCategoryViewModel
+            //    {
+            //        Id = articleCategory.Id,
+            //        Title = articleCategory.Title,
+            //        IsDeleted = articleCategory.IsDeleted,
+            //        CreationDate = articleCategory.CreationDate.ToString(CultureInfo.InvariantCulture)
+            //    });
+            //}
+            //return result;
         }
-        public void Create(CreateArticleCategory command )
+
+
+        public void Create(CreateArticleCategory command)
         {
-            var articeleCategory = new ArticleCategory(command.Title,_articleCategoryValidatorService);
+            var articeleCategory = new ArticleCategory(command.Title, _articleCategoryValidatorService);
             _articleCategoryRepository.Create(articeleCategory);
         }
 
@@ -47,7 +54,7 @@ namespace MB.Application
         {
             var articleCategory = _articleCategoryRepository.Get(command.Id);
             articleCategory.Rename(command.Title);
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
 
         }
 
@@ -63,16 +70,16 @@ namespace MB.Application
 
         public void Remove(int id)
         {
-           var articelCategory = _articleCategoryRepository.Get(id);
+            var articelCategory = _articleCategoryRepository.Get(id);
             articelCategory.Remove();
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
 
         public void Activate(int id)
         {
             var articleCategory = _articleCategoryRepository.Get(id);
             articleCategory.Activate();
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
     }
 }

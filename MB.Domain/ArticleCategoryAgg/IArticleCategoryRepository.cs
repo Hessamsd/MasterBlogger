@@ -1,11 +1,9 @@
-﻿namespace MB.Domain.ArticleCategoryAgg
+﻿using _01_Framework.Infrastructure;
+
+namespace MB.Domain.ArticleCategoryAgg
 {
-    public interface IArticleCategoryRepository
+    public interface IArticleCategoryRepository : IRepository<int,ArticleCategory>
     {
-        List<ArticleCategory> GetAll();
-        void Create(ArticleCategory entity);
-        ArticleCategory Get(int id);
-        void Save();
-        bool Exists(string title);
+        
     }
 }

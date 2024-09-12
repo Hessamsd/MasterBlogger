@@ -21,14 +21,14 @@ namespace MB.Application
         {
             var article = new Article(command.Title, command.ShortDescription, command.Image,
                 command.Content, command.ArticleCategoryId);
-            _articleRepository.CreateAndSave(article);
+            _articleRepository.Create(article);
         }
 
         public void Edit(EditeArticle command)
         {
             var article = _articleRepository.Get(command.Id);
             article.Edit(command.Title, command.ShortDescription, command.Image, command.Content, command.ArticleCategoryId);
-            _articleRepository.Save();
+            //_articleRepository.Save();
 
         }
 
@@ -54,14 +54,14 @@ namespace MB.Application
         {
             var article =_articleRepository.Get(id);
             article.Remove();
-            _articleRepository.Save();  
+           // _articleRepository.Save();  
         }
 
         public void Activate(int id)
         {
             var article = _articleRepository.Get(id);
             article.Activate();
-            _articleRepository.Save();
+            //_articleRepository.Save();
         }
     }
 }
