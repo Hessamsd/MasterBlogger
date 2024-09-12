@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D370749E-A59F-4F01-BCA4-ACB070A496F0}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.application\\commentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E652BA-771C-4B5E-88F5-97166E87F94B}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\commentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\mb.infrastructure.efcore\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B65434-550D-4F99-A0F1-408DBDB3645D}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6366EB0-7093-47E4-945D-5BA9881065C8}|01_Framework\\01_Framework.csproj|c:\\users\\administrator\\desktop\\atriya project\\mrblogger\\01_framework\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6366EB0-7093-47E4-945D-5BA9881065C8}|01_Framework\\01_Framework.csproj|solutionrelative:01_framework\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:57:23.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleCategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleCategoryApplication.cs",
+              "RelativeDocumentMoniker": "MB.Application\\ArticleCategoryApplication.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleCategoryApplication.cs",
+              "RelativeToolTip": "MB.Application\\ArticleCategoryApplication.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:51:53.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\CommentApplication.cs",
+              "RelativeDocumentMoniker": "MB.Application\\CommentApplication.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\CommentApplication.cs",
+              "RelativeToolTip": "MB.Application\\CommentApplication.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:45:43.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Infrastructure.EFCore\\UnitOfWork.cs",
+              "RelativeToolTip": "MB.Infrastructure.EFCore\\UnitOfWork.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:42:15.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\01_Framework\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "01_Framework\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\01_Framework\\IUnitOfWork.cs",
+              "RelativeToolTip": "01_Framework\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:40:48.191Z",
+              "EditorCaption": ""
             }
           ]
         }

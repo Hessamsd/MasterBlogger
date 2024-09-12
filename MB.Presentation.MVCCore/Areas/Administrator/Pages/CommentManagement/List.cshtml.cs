@@ -28,7 +28,7 @@ namespace MB.Presentation.MVCCore.Areas.Administrator.Pages.CommentManagement
 
         public RedirectToPageResult OnPostCancel(int id)
         {
-            _commentApplication.Confirm(id);
+            _commentApplication.Canseled(id);
             return RedirectToPage();
         }
     }

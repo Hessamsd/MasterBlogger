@@ -12,6 +12,7 @@ using MB.Domain.ArticleAgg.Services;
 using MB.Infrastructure.Query;
 using MB.Application.Contracts.Comment;
 using MB.Domain.Comment;
+using _01_Framework;
 
 namespace MB.Infrastructure.Core
 {
@@ -32,6 +33,7 @@ namespace MB.Infrastructure.Core
             services.AddTransient<IArticleQuery, ArticleQuery>();
             services.AddTransient<ICommentApplication, CommentApplication>();
             services.AddTransient<ICommentRepository, CommentRepository>();
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
 
 
 
