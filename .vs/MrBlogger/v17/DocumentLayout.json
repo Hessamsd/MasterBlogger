@@ -50,8 +50,7 @@
               "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:57:23.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T07:57:23.623Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "MB.Application\\ArticleCategoryApplication.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Atriya Project\\MrBlogger\\MB.Application\\ArticleCategoryApplication.cs",
               "RelativeToolTip": "MB.Application\\ArticleCategoryApplication.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAABkAAABIAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwBkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T07:51:53.136Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "MB.Application\\CommentApplication.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAwCsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:45:43.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T07:45:43.707Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "MB.Infrastructure.EFCore\\UnitOfWork.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAuwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:42:15.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T07:42:15.869Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "01_Framework\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:40:48.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T07:40:48.191Z"
             }
           ]
         }
